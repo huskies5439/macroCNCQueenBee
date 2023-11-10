@@ -1,0 +1,1 @@
+M3 S0 ;Faire tourner le spindle à 0 RPM
